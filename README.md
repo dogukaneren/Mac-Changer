@@ -1,7 +1,7 @@
 # Mac-Changer
 Script that changes mac address of an given interface
 
-#Usage
+**Usage**
 sudo chmod +x mac-changer.sh
 
 -i interface
