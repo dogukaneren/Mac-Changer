@@ -20,7 +20,7 @@ def change_mac(interface, new_mac):
 
 if __name__ == "__main__":
     if len(sys.argv) != 2:
-        print("Usage: python change_mac.py <interface>")
+        print("Usage: python3 mac-changer.py <interface>")
         sys.exit(1)
 
     interface = sys.argv[1]
